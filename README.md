@@ -1,38 +1,38 @@
-# 👋 Bonjour, je suis Nasreddine Boudene
+# 👋 Hi, I'm Nasreddine Boudene
 
-🎯 Développeur Odoo | Laravel & Filament Enthusiast | Passionné d’ERP et de solutions métiers
-
----
-
-## 👨‍💻 À propos de moi
-
-Je suis développeur Odoo et consultant technique avec plus de 1 an et demi d'expérience.  
-J’ai travaillé sur des projets complets d’ERP pour des PME, notamment dans la gestion des ventes, achats, ressources humaines, point de vente, et bien plus.
-
-Je me forme activement sur Laravel 12 avec Filament, et je développe aussi un projet personnel de mise en relation.
+🎯 Odoo Developer | Laravel & Filament Enthusiast | Passionate about ERP and Business Solutions
 
 ---
 
-## 🛠️ Compétences
+## 👨‍💻 About Me
 
-- **ERP & Odoo** : développement de modules, adaptation fonctionnelle, déploiement (Windows / Linux / Proxmox)
-- **Backend** : Python, PHP, Laravel, Filament, Java
-- **Frontend** : HTML, TailwindCSS, Blade, Filament UI, OWL, JS
-- **Systèmes** : Linux, Nginx, Proxmox, gestion de VM, LVM
-- **Base de données** : PostgreSQL, MySQL
+I'm a technical Odoo developer and consultant with over 1.5 years of hands-on experience.  
+I've worked on complete ERP projects for SMEs, covering sales, purchases, HR, POS, and more.
+
+Currently, I’m actively learning Laravel 12 with Filament and developing a personal matchmaking platform.
 
 ---
 
-## 🚧 Projets en cours
+## 🛠️ Skills
 
-- 🔧 Développement d’un ERP Odoo complet pour deux entreprises industrielles
-- 🌍 Plateforme de mise en relation entre clients et prestataires (Laravel + Filament)
-  
+- **ERP & Odoo**: Module development, functional customization, deployment (Windows / Linux / Proxmox)
+- **Backend**: Python, PHP, Laravel, Filament, Java
+- **Frontend**: HTML, TailwindCSS, Blade, Filament UI, OWL, JavaScript
+- **Systems**: Linux, Nginx, Proxmox, VM management, LVM
+- **Databases**: PostgreSQL, MySQL
+
 ---
 
-## 📫 Me contacter
+## 🚧 Ongoing Projects
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/nasreddineboudene/)
-- 📧 nesreddineboudene@gmail.com
-- 📧 nasreddine.boudene@outlook.com
--     +213 6993 874 61
+- 🔧 Full Odoo ERP implementation for two industrial companies  
+- 🌍 Matchmaking platform between clients and service providers (Laravel + Filament)
+
+---
+
+## 📫 Contact Me
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/nasreddineboudene/)  
+- 📧 nesreddineboudene@gmail.com  
+- 📧 nasreddine.boudene@outlook.com  
+- 📱 +213 6993 874 61
